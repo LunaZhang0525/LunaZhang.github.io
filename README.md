@@ -1,2 +1,1 @@
-# LunaZhang.github.io
-My Favorite Destinations!
+Map of My favorite Destinations.
